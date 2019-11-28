@@ -3,13 +3,13 @@
 
 ------------------------------------------------DSA-2019----------------------------------------------
 
-*Selection_sort 
+* Selection_sort 
 
-*Insert_sort 
+* Insert_sort 
 
-*merge_sort 
+* merge_sort 
 
-*Shell_sort 
+* Shell_sort 
 
 * quick_sort 
 
